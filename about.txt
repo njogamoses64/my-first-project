@@ -1,0 +1,2 @@
+This project is a practice repository for learning git basics. 
+It focuses on managing changes and exploring history.
