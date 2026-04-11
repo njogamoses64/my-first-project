@@ -1,0 +1,5 @@
+Linux skills
+Networking skills
+CyberSecurity skills
+Git skills
+Python skills
