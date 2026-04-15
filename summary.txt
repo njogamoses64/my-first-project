@@ -1,0 +1,3 @@
+This project is a hands-on assessment of Git version control and GitHub 
+integration, focused on managing a collaborative-style workflow through 
+branching, merging, and remote synchorization.
